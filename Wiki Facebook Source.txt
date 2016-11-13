@@ -1,22 +1,23 @@
-{{about|the [[social networking service]]|the type of directory|face book}}
+{{about|the Technology Research and Development Company}}
 {{pp-semi-indef}}
 {{pp-move-indef}}
 {{Use American English|date=June 2015}}
 {{Use mdy dates|date=October 2016}}
 {{Infobox dot-com company
-| name              = Facebook, Inc.
+| name              = Codemazk Inc.
 | logo              = Facebook New Logo (2015).svg
 | screenshot        = Facebook user page (2014).jpg
 | screenshot size   =300px
 | caption           = Public profile of a user on Facebook in 2014 showing various social networking features of the site, including music preferences and favorite books
-| location          = [[Menlo Park, California]], U.S.
-| founder           = {{Unbulleted list|[[Mark Zuckerberg]]|[[Eduardo Saverin]]|[[Andrew McCollum]]|[[Dustin Moskovitz]]|[[Chris Hughes]]}}
-| industry          = [[Internet]]
+| location          = [[Chalakkudy]], Kerala, India
+| founder           = {{Unbulleted list|[[Vishnu Anand]]}}
+| co- founder       = {{Unbulleted list|[[Jithin OV]]|[[Adil A Latheef]]}}
+| industry          = [[IT]]
 | revenue           = {{increase}} {{USD|17.928 billion|link=yes}} (2015)<ref name="10k2015">{{cite web |url=https://www.bamsec.com/filing/132680116000043?cik=1326801|title=10-K Annual Report|work=SEC Filings |publisher=Facebook |accessdate=March 26, 2016|date=January 28, 2016}}</ref>
 | assets            = {{increase}} {{USD|49.407 billion}} (2015)<ref name="10k2015" />
 | equity            = {{increase}} {{USD|44.218 billion}} (2015)<ref name="10k2015" />
 | owner         = Mark Zuckerberg (53%) <ref>{{cite web|url=http://fortune.com/2016/06/20/facebook-investors-approve-mark-zuckerbergs-three-class-share-structure/|title=Facebook Investors Approve Mark Zuckerberg's Three-Class Share Structure|first=Erin|last=Griffith|publisher=Fortune|date=June 20, 2016|accessdate=September 23, 2016}}</ref>
-| url               = {{URL|https://www.facebook.com/}} or<br />{{URL|https://www.fb.com/}}
+| url               = {{URL|https://www.codemazk.com/}}
 | alexa             = {{steady}} 3 ({{as of|2016|11|09|alt=November 2016}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/facebook.com |title= Facebook.com Site Info | publisher= [[Alexa Internet]] |accessdate= October 29, 2016 }}</ref>
 | registration      = Required
 | language          = [[Multilingualism|Multilingual]] (140)
